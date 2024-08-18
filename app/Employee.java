@@ -1,7 +1,5 @@
 package src.app;
 
-import java.util.Scanner;
-
 class Employee {
 
     private String name;
